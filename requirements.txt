@@ -1,0 +1,8 @@
+brian2
+brian2tools
+numpy
+cython
+ipython
+matplotlib
+scipy
+
